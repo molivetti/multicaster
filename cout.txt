@@ -1,0 +1,21 @@
+Script started on Thu 01 May 2014 04:35:37 PM EDT
+[?1034hsh-4.1$ exit./client macs.citadel.edu www.google.com 4
+
+Sent first registration packet 
+
+Sent second registration packet 
+
+Sent third registration packet 
+
+Received registration confirmation packet 
+
+��t tell you what an honor it is, to even be mentioned in the same breath with Arthur Ashe. This is 
+something I certainly will treasure forever. But, as it was said on the tape, and I also don’t hav
+e one of those things going with the cue cards, so I’m going to speak longer than anybody else has
+ spoken tonight. That’s the way it goes. Time is very precious to me. I don’t know how much I ha
+
+ Sent leave packet, client program has exited
+sh-4.1$ exit
+exit
+
+Script done on Thu 01 May 2014 04:36:02 PM EDT

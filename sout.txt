@@ -1,0 +1,22 @@
+Script started on Thu 01 May 2014 04:35:45 PM EDT
+[?1034hsh-4.1$ exit./client macs.citadel.edu www.google.com 4[C[C[C[C[C[C[C[C[C[Cserver [K
+
+Received first registration packet 
+
+Join_handler received a registration packet for socketid: 5
+
+Join_handler received a registration packet for socketid: 5
+
+Registration confirm packet send SUCCESS
+€™t tell you what an honor it is, to even be mentioned in the same breath with Arthur Ashe. This is Ÿ
+something I certainly will treasure forever. But, as it was said on the tape, and I also donâ€™t havŸ
+e one of those things going with the cue cards, so Iâ€™m going to speak longer than anybody else hasŸ
+ spoken tonight. Thatâ€™s the way it goes. Time is very precious to me. I donâ€™t know how much I haŸ
+
+Received leave packet 
+Sockid:5 is now:0 and thus deleted from the global table
+^C
+sh-4.1$ exit
+exit
+
+Script done on Thu 01 May 2014 04:36:06 PM EDT
